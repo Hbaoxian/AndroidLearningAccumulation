@@ -1,5 +1,6 @@
 package com.hbaoxian.androidaccumulation;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -8,8 +9,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
+import com.hbaoxian.androidaccumulation.ui.activity.ShowImageActivity;
 import com.hbaoxian.androidaccumulation.ui.adapter.MainAdapter;
 
 import java.util.ArrayList;
@@ -25,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private MainAdapter adapter;
 
 
-    private String[] data = {"Apple","Banana","Orange","WaterMelon","Pear","Grape","Pineapple","Strawberry","Cherry","Mango"};
+    private String[] data = {"com.hbaoxian.androidaccumulation.ui.activity.ShowImageActivity","Banana","Orange","WaterMelon","Pear","Grape","Pineapple","Strawberry","Cherry","Mango"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +40,16 @@ public class MainActivity extends AppCompatActivity {
 
         adapter = new MainAdapter(MainActivity.this, R.layout.main_table_cell_view , Arrays.asList(data));
         tableView.setAdapter(adapter);
+
+
+        tableView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent = new Intent(getBaseContext(), ShowImageActivity.class);
+                startActivity(intent);
+            }
+        });
+
 
     }
 
