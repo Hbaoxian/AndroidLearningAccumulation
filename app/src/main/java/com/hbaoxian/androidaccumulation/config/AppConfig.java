@@ -15,6 +15,10 @@ import com.nostra13.universalimageloader.core.decode.BaseImageDecoder;
 import com.nostra13.universalimageloader.core.download.BaseImageDownloader;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class AppConfig {
 
@@ -31,6 +35,19 @@ public class AppConfig {
             return true;
         }
         return false;
+    }
+
+
+    public static List<Map<String, String>>  getActivityList() {
+
+        List<Map<String, String>> list = new ArrayList<>();
+
+        Map<String, String> map = new HashMap<>();
+        map.put("name", "图片加载器");
+        map.put("target", "com.hbaoxian.androidaccumulation.ui.activity.ShowImageActivity");
+        list.add(map);
+
+        return list;
     }
 
 

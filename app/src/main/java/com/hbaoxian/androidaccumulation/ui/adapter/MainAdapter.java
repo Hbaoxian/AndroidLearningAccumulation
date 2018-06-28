@@ -14,13 +14,14 @@ import android.widget.TextView;
 import com.hbaoxian.androidaccumulation.R;
 
 import java.util.List;
+import java.util.Map;
 
 public class MainAdapter extends ArrayAdapter {
 
     int resuceId ;
-    private  List dataList;
+    private  List<Map<String, String>> dataList;
 
-    public  MainAdapter(Context context, int resousce, List list) {
+    public  MainAdapter(Context context, int resousce, List<Map<String, String>> list) {
         super(context,resousce, list);
         resuceId = resousce;
         dataList = list;
@@ -34,10 +35,9 @@ public class MainAdapter extends ArrayAdapter {
             convertView =  LayoutInflater.from(getContext()).inflate(R.layout.main_table_cell_view, parent, false);
         }
 
+        Map<String, String> map = dataList.get(position);
         TextView textView = convertView.findViewById(R.id.cell_title);
-        Object object = dataList.get(position);
-
-        textView.setText(object.toString());
+        textView.setText(map.get("name").toString());
         return convertView;
     }
 }

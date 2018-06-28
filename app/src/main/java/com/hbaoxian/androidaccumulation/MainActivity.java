@@ -10,54 +10,56 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import com.hbaoxian.androidaccumulation.Tool.StorageUtils;
 import com.hbaoxian.androidaccumulation.config.AppConfig;
-import com.hbaoxian.androidaccumulation.ui.activity.ShowImageActivity;
 import com.hbaoxian.androidaccumulation.ui.adapter.MainAdapter;
-import com.nostra13.universalimageloader.cache.disc.impl.UnlimitedDiskCache;
-import com.nostra13.universalimageloader.cache.disc.naming.HashCodeFileNameGenerator;
-import com.nostra13.universalimageloader.cache.memory.impl.LruMemoryCache;
-import com.nostra13.universalimageloader.core.DisplayImageOptions;
-import com.nostra13.universalimageloader.core.ImageLoader;
-import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
-import com.nostra13.universalimageloader.core.assist.QueueProcessingType;
-import com.nostra13.universalimageloader.core.decode.BaseImageDecoder;
-import com.nostra13.universalimageloader.core.download.BaseImageDownloader;
 
-import java.io.File;
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
 
     private ListView tableView;
-    private List<String> dataArray;
+    private List<Map<String, String>> dataArray = new ArrayList<>();
 
     private MainAdapter adapter;
-
-
-    private String[] data = {"ShowImageActivity","Banana","Orange","WaterMelon","Pear","Grape","Pineapple","Strawberry","Cherry","Mango"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        dataArray.addAll(AppConfig.getActivityList());
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         tableView = (ListView)findViewById(R.id.main_activity_table_view);
 
-        adapter = new MainAdapter(MainActivity.this, R.layout.main_table_cell_view , Arrays.asList(data));
-        tableView.setAdapter(adapter);
 
+        adapter = new MainAdapter(MainActivity.this, R.layout.main_table_cell_view , dataArray);
+        tableView.setAdapter(adapter);
 
         tableView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Intent intent = new Intent(getBaseContext(), ShowImageActivity.class);
+
+                Map<String, String> map = dataArray.get(i);
+
+                Class newClass = null;
+                try {
+                     newClass = Class.forName(map.get("target").toString());
+                } catch (ClassNotFoundException e) {
+                    e.printStackTrace();
+                }
+                Intent intent = new Intent(getBaseContext(), newClass);
                 startActivity(intent);
             }
         });
+
+
+
+
 
 
         AppConfig.configImageLoader(getBaseContext());

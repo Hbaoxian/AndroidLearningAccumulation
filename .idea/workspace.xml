@@ -10,32 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29a549c6-9d07-43f2-a0d3-a2f8317ae355" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_7_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_7_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_okhttp_integration_4_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_2_7_5_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_6_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/GlidePicModel.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,66 +91,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ShowImageActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Glide.java" pinned="false" current-in-tab="true">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.7.1/835685a4ca352a1c6d5f724088432ae950e04bac/glide-4.7.1-sources.jar!/com/bumptech/glide/Glide.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="98" column="13" lean-forward="false" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RequestManager.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.7.1/835685a4ca352a1c6d5f724088432ae950e04bac/glide-4.7.1-sources.jar!/com/bumptech/glide/RequestManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RequestBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.7.1/835685a4ca352a1c6d5f724088432ae950e04bac/glide-4.7.1-sources.jar!/com/bumptech/glide/RequestBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1376">
-              <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show_image_acvity.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AppConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            <state relative-caret-position="390">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,21 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="proguard-rules.pro" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <file leaf-file-name="MainAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state relative-caret-position="435">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -193,8 +116,8 @@
       <file leaf-file-name="GlidePicModel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/GlidePicModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -205,10 +128,86 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="544">
+              <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1307#1907#0" expanded="true" />
+                <element signature="e#1906#1907#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content_main.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+              <folding>
+                <element signature="e#355#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowImageActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="e#422#440#0" expanded="true" />
+                <element signature="e#656#674#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2251,7 +2250,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/view_main_activity_row.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main_table_view.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main_table_cell_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/GlideImageLoader.java" />
@@ -2259,22 +2257,24 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/OnProgressListener.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/ProgressManager.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/ProgressResponseBody.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StoreUtils.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StorageUtils.java" />
         <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/hbaoxian/androidaccumulation/BuildConfig.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/GlidePicModel.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
-    <option name="y" value="26" />
+    <option name="x" value="26" />
+    <option name="y" value="31" />
     <option name="width" value="1813" />
     <option name="height" value="1008" />
   </component>
@@ -2693,7 +2693,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="26" width="1813" height="1008" extended-state="0" />
+    <frame x="26" y="31" width="1813" height="1008" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2706,7 +2706,7 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280899" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23820224" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5797753" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2732,7 +2732,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java</url>
+          <line>39</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -2743,14 +2752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -4022,38 +4023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/widget/LinearLayout.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -4237,17 +4206,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StoreUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -4269,14 +4227,14 @@
         <state relative-caret-position="281">
           <caret line="4971" column="28" lean-forward="false" selection-start-line="4971" selection-start-column="28" selection-end-line="4971" selection-end-column="28" />
           <folding>
-            <marker date="1530164882938" expanded="true" signature="226869:227901" ph="{...}" />
-            <marker date="1530164882938" expanded="true" signature="227943:228190" ph="{...}" />
-            <marker date="1530164882938" expanded="true" signature="228226:232142" ph="{...}" />
-            <marker date="1530164882938" expanded="true" signature="232176:232231" ph="{...}" />
-            <marker date="1530164882938" expanded="true" signature="232267:232382" ph="{...}" />
-            <marker date="1530164882938" expanded="true" signature="232418:236376" ph="{...}" />
-            <marker date="1530164882938" expanded="true" signature="236411:274709" ph="{...}" />
-            <marker date="1530164882938" expanded="true" signature="274748:948729" ph="{...}" />
+            <marker date="1530166944191" expanded="true" signature="226869:227901" ph="{...}" />
+            <marker date="1530166944191" expanded="true" signature="227943:228190" ph="{...}" />
+            <marker date="1530166944191" expanded="true" signature="228226:232142" ph="{...}" />
+            <marker date="1530166944191" expanded="true" signature="232176:232231" ph="{...}" />
+            <marker date="1530166944191" expanded="true" signature="232267:232382" ph="{...}" />
+            <marker date="1530166944191" expanded="true" signature="232418:236376" ph="{...}" />
+            <marker date="1530166944191" expanded="true" signature="236411:274709" ph="{...}" />
+            <marker date="1530166944191" expanded="true" signature="274748:948729" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -4286,27 +4244,7 @@
         <state relative-caret-position="303">
           <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4327,16 +4265,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/GlidePicModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -4345,16 +4273,6 @@
         <state relative-caret-position="375">
           <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4376,9 +4294,399 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.7.1/835685a4ca352a1c6d5f724088432ae950e04bac/glide-4.7.1-sources.jar!/com/bumptech/glide/Glide.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2805">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/content/Intent.class">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="98" column="13" lean-forward="false" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+          <caret line="336" column="11" lean-forward="false" selection-start-line="336" selection-start-column="11" selection-end-line="336" selection-end-column="11" />
+          <folding>
+            <marker date="1529378135510" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1529378135510" expanded="false" signature="139:685" ph="..." />
+            <marker date="1529378135510" expanded="true" signature="3054:3072" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="3196:3214" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="8794:8812" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="11934:11952" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="12066:12084" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="12948:12966" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="16711:16729" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="17662:17680" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="21987:22005" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="22117:22135" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="22265:22283" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="22399:22417" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="23970:23988" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="26345:26356" ph=" { " />
+            <marker date="1529378135510" expanded="true" signature="26392:26398" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="26427:26438" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="26474:26480" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="26514:26525" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="26561:26567" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="26610:26621" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="26657:26663" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="26720:26731" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="26767:26773" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="26855:26907" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="26983:27035" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="27132:27184" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="27211:27222" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="27258:27264" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="27297:27308" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="27344:27350" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="27422:27474" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="27574:27626" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="27705:27757" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="27763:27781" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="27871:27923" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="28008:28060" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="28138:28190" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="28221:28232" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="28268:28274" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="28300:28311" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="28347:28353" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="28388:28399" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="28435:28441" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="28472:28483" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="28519:28525" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="28554:28565" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="28601:28607" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="28655:28666" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="28702:28708" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="28765:28776" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="28812:28818" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="28884:28936" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="28985:28996" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="29032:29038" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="29078:29089" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="29125:29131" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="29164:29175" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="29211:29217" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="29252:29263" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="29299:29305" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="29363:29374" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="29410:29416" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="29458:29469" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="29505:29511" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="29552:29563" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="29599:29605" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="29677:29729" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="29792:29844" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="29910:29962" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="30025:30077" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="30136:30147" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="30183:30189" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="30252:30304" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="30370:30422" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="30491:30543" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="30590:30601" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="30637:30643" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="30702:30713" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="30749:30755" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="30825:30877" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="30940:30992" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="31082:31134" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="31193:31204" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="31240:31246" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="31316:31368" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="31436:31488" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="31568:31620" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="31676:31687" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="31723:31729" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="31779:31790" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="31826:31832" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="31884:31895" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="31931:31937" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="31987:31998" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32034:32040" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="32088:32099" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32135:32141" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="32191:32202" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32238:32244" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="32296:32307" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32343:32349" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="32403:32414" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32450:32456" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="32510:32521" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32557:32563" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="32630:32682" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="32729:32740" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32776:32782" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="32813:32824" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32860:32866" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="32893:32904" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="32940:32946" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="32978:32989" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33025:33031" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="33072:33083" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33119:33125" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="33160:33171" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33207:33213" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="33274:33285" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33321:33327" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="33403:33455" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="33499:33510" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33546:33552" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="33589:33600" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33636:33642" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="33691:33702" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33738:33744" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="33784:33795" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33831:33837" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="33889:33900" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="33936:33942" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="33999:34010" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34046:34052" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="34122:34174" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="34222:34233" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34269:34275" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="34324:34335" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34371:34377" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="34423:34434" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34470:34476" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="34520:34531" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34567:34573" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="34629:34640" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34676:34682" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="34735:34746" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34782:34788" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="34841:34852" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34888:34894" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="34948:34959" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="34995:35001" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="35053:35064" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="35100:35106" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="35159:35170" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="35206:35212" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="35266:35277" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="35313:35319" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="35374:35385" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="35421:35427" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="35482:35493" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="35529:35535" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="35596:35607" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="35643:35649" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="35708:35719" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="35755:35761" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="35822:35833" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="35869:35875" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="35975:36027" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="36111:36163" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="36245:36297" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="36391:36443" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="36504:36515" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="36551:36557" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="36615:36626" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="36662:36668" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="36723:36734" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="36770:36776" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="36832:36843" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="36879:36885" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="36940:36951" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="36987:36993" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="37047:37058" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="37094:37100" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="37155:37166" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="37202:37208" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="37264:37275" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="37311:37317" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="37374:37385" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="37421:37427" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="37484:37495" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="37531:37537" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="37601:37653" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="37708:37719" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="37755:37761" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="37802:37813" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="37849:37855" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="37899:37910" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="37946:37952" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="37997:38008" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="38044:38050" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="38098:38109" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="38145:38151" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="38193:38204" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="38240:38246" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="38285:38296" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="38332:38338" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="38377:38388" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="38424:38430" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="38470:38481" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="38517:38523" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="38573:38584" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="38620:38626" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="38683:38694" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="38730:38736" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="38811:38863" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="38934:38986" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="39053:39105" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="39146:39157" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39193:39199" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="39247:39258" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39294:39300" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="39347:39358" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39394:39400" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="39433:39444" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39480:39486" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="39516:39527" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39563:39569" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="39575:39593" ph="/**...*/" />
+            <marker date="1529378135510" expanded="false" signature="39635:39646" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39682:39688" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="39724:39735" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39771:39777" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="39812:39823" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39859:39865" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="39919:39930" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="39966:39972" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="40015:40026" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="40062:40068" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="40213:40265" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="40322:40333" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="40369:40375" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="40424:40831" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="40472:40487" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="40523:40533" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="40568:40583" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="40619:40629" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="40672:40687" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="40723:40733" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="40764:40779" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="40815:40825" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="40900:41631" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="41092:41107" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="41143:41153" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="41250:41310" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="41349:41364" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="41400:41410" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="41469:41484" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="41520:41530" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="41564:41579" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="41615:41625" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="e#422#440#0" expanded="true" />
+            <element signature="e#656#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/GlidePicModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1307#1907#0" expanded="true" />
+            <element signature="e#1906#1907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding>
+            <element signature="e#355#395#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
