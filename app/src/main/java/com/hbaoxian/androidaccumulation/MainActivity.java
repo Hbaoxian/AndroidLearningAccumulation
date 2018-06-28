@@ -2,20 +2,29 @@ package com.hbaoxian.androidaccumulation;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+import com.hbaoxian.androidaccumulation.Tool.StorageUtils;
+import com.hbaoxian.androidaccumulation.config.AppConfig;
 import com.hbaoxian.androidaccumulation.ui.activity.ShowImageActivity;
 import com.hbaoxian.androidaccumulation.ui.adapter.MainAdapter;
+import com.nostra13.universalimageloader.cache.disc.impl.UnlimitedDiskCache;
+import com.nostra13.universalimageloader.cache.disc.naming.HashCodeFileNameGenerator;
+import com.nostra13.universalimageloader.cache.memory.impl.LruMemoryCache;
+import com.nostra13.universalimageloader.core.DisplayImageOptions;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
+import com.nostra13.universalimageloader.core.assist.QueueProcessingType;
+import com.nostra13.universalimageloader.core.decode.BaseImageDecoder;
+import com.nostra13.universalimageloader.core.download.BaseImageDownloader;
 
-import java.util.ArrayList;
+import java.io.File;
 import java.util.Arrays;
 import java.util.List;
 
@@ -28,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     private MainAdapter adapter;
 
 
-    private String[] data = {"com.hbaoxian.androidaccumulation.ui.activity.ShowImageActivity","Banana","Orange","WaterMelon","Pear","Grape","Pineapple","Strawberry","Cherry","Mango"};
+    private String[] data = {"ShowImageActivity","Banana","Orange","WaterMelon","Pear","Grape","Pineapple","Strawberry","Cherry","Mango"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +58,9 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+
+        AppConfig.configImageLoader(getBaseContext());
 
 
     }
@@ -74,4 +86,8 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+
+
+
 }

@@ -10,19 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29a549c6-9d07-43f2-a0d3-a2f8317ae355" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_nostra13_universalimageloader_universal_image_loader_1_9_5_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StorageUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,16 +44,133 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AndroidLearningAccumulation" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AndroidLearningAccumulation" type="f1a62948:ProjectNode" />
+                <item name="AndroidLearningAccumulation" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AndroidLearningAccumulation" type="f1a62948:ProjectNode" />
+                <item name="AndroidLearningAccumulation" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AndroidLearningAccumulation" type="f1a62948:ProjectNode" />
+                <item name="AndroidLearningAccumulation" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AndroidLearningAccumulation" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AndroidLearningAccumulation" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="ShowImageActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="33" column="5" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/hbaoxian/androidaccumulation/BuildConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="294">
+              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
               <folding>
-                <element signature="e#1535#1838#0" expanded="true" />
-                <element signature="e#1837#1838#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="R.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/com/hbaoxian/androidaccumulation/R.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="4970" column="28" lean-forward="false" selection-start-line="4970" selection-start-column="28" selection-end-line="4970" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StorageUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StorageUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,130 +182,24 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="150">
+              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppCompatActivity.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/98d3925089a92b216de43a6cbfbf8514/jars/classes.jar!/android/support/v7/app/AppCompatActivity.class">
+      <file leaf-file-name="LoadAndDisplayImageTask.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/befa9412ecbd18331c5e066e46ca4005077382bc/universal-image-loader-1.9.5-sources.jar!/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-              <folding>
-                <marker date="1529983237616" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1529983237616" expanded="false" signature="146:1402" ph="..." />
-                <marker date="1529983237616" expanded="true" signature="1665:1672" ph="{}" />
-                <marker date="1529983237616" expanded="true" signature="1739:2210" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="2258:2327" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="2398:2514" ph="{...}" />
-                <marker date="1529983237616" expanded="false" signature="2572:2583" ph=" { " />
-                <marker date="1529983237616" expanded="false" signature="2631:2637" ph=" }" />
-                <marker date="1529983237616" expanded="true" signature="2702:2766" ph="{...}" />
-                <marker date="1529983237616" expanded="false" signature="2809:2820" ph=" { " />
-                <marker date="1529983237616" expanded="false" signature="2864:2870" ph=" }" />
-                <marker date="1529983237616" expanded="true" signature="2931:2994" ph="{...}" />
-                <marker date="1529983237616" expanded="false" signature="3037:3048" ph=" { " />
-                <marker date="1529983237616" expanded="false" signature="3088:3094" ph=" }" />
-                <marker date="1529983237616" expanded="true" signature="3159:3223" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="3288:3352" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="3418:3740" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="3776:3856" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="3887:3957" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="3987:4055" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="4115:4174" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="4250:4558" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="4591:4665" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="4732:4827" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="4891:4965" ph="{...}" />
-                <marker date="1529983237616" expanded="false" signature="5013:5024" ph=" { " />
-                <marker date="1529983237616" expanded="false" signature="5067:5073" ph=" }" />
-                <marker date="1529983237616" expanded="false" signature="5114:5125" ph=" { " />
-                <marker date="1529983237616" expanded="false" signature="5168:5174" ph=" }" />
-                <marker date="1529983237616" expanded="true" signature="5260:5267" ph="{}" />
-                <marker date="1529983237616" expanded="true" signature="5354:5361" ph="{}" />
-                <marker date="1529983237616" expanded="false" signature="5460:5471" ph=" { " />
-                <marker date="1529983237616" expanded="false" signature="5483:5489" ph=" }" />
-                <marker date="1529983237616" expanded="true" signature="5578:5653" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="5659:5677" ph="/**...*/" />
-                <marker date="1529983237616" expanded="true" signature="5759:5766" ph="{}" />
-                <marker date="1529983237616" expanded="true" signature="5772:5790" ph="/**...*/" />
-                <marker date="1529983237616" expanded="true" signature="5885:5892" ph="{}" />
-                <marker date="1529983237616" expanded="true" signature="5898:5916" ph="/**...*/" />
-                <marker date="1529983237616" expanded="true" signature="6007:6014" ph="{}" />
-                <marker date="1529983237616" expanded="true" signature="6020:6038" ph="/**...*/" />
-                <marker date="1529983237616" expanded="true" signature="6104:6111" ph="{}" />
-                <marker date="1529983237616" expanded="true" signature="6199:6244" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="6333:6340" ph="{}" />
-                <marker date="1529983237616" expanded="true" signature="6383:7129" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="7196:7258" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="7337:7410" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="7474:7528" ph="{...}" />
-                <marker date="1529983237616" expanded="false" signature="7564:7575" ph=" { " />
-                <marker date="1529983237616" expanded="false" signature="7606:7612" ph=" }" />
-                <marker date="1529983237616" expanded="true" signature="7618:7636" ph="/**...*/" />
-                <marker date="1529983237616" expanded="true" signature="7695:7702" ph="{}" />
-                <marker date="1529983237616" expanded="true" signature="7764:7832" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="7892:7951" ph="{...}" />
-                <marker date="1529983237616" expanded="false" signature="8008:8019" ph=" { " />
-                <marker date="1529983237616" expanded="false" signature="8056:8062" ph=" }" />
-                <marker date="1529983237616" expanded="true" signature="8120:8230" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="8288:8442" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="8496:8728" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="8766:9039" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="9114:9680" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="9740:9849" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="9885:10099" ph="{...}" />
-                <marker date="1529983237616" expanded="true" signature="10136:10352" ph="{...}" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="50" column="12" lean-forward="false" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShowImageActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Build.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/os/Build.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="75" column="32" lean-forward="false" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-              <folding>
-                <marker date="1529378135510" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1529378135510" expanded="true" signature="292:310" ph="/**...*/" />
-                <marker date="1529378135510" expanded="true" signature="378:396" ph="/**...*/" />
-                <marker date="1529378135510" expanded="true" signature="887:905" ph="/**...*/" />
-                <marker date="1529378135510" expanded="true" signature="971:989" ph="/**...*/" />
-                <marker date="1529378135510" expanded="false" signature="1477:1488" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="1524:1530" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="1568:1579" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="1615:1621" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="1665:1676" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="1712:1718" ph=" }" />
-                <marker date="1529378135510" expanded="true" signature="1758:3244" ph="{...}" />
-                <marker date="1529378135510" expanded="false" signature="3177:3192" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3228:3238" ph=" }" />
-                <marker date="1529378135510" expanded="true" signature="3278:3831" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="3550:3568" ph="/**...*/" />
-                <marker date="1529378135510" expanded="false" signature="3764:3779" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3815:3825" ph=" }" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show_image_acvity.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="show_image_acvity.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml">
           <provider editor-type-id="android-designer2">
             <state />
@@ -193,136 +212,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinearLayout.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/widget/LinearLayout.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <marker date="1529378135510" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1529378135510" expanded="false" signature="138:489" ph="..." />
-                <marker date="1529378135510" expanded="true" signature="887:995" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="1058:1166" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="1247:1355" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="1453:1561" ph="{...}" />
-                <marker date="1529378135510" expanded="false" signature="1612:1623" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="1659:1665" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="1716:1727" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="1763:1769" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="1803:1814" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="1850:1856" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="1898:1909" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="1945:1951" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="2005:2016" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2052:2058" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="2106:2117" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2153:2159" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="2195:2206" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2242:2248" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="2290:2301" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2337:2343" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="2383:2394" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2430:2436" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="2497:2508" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2544:2550" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="2605:2616" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2652:2658" ph=" }" />
-                <marker date="1529378135510" expanded="true" signature="2727:2779" ph="{...}" />
-                <marker date="1529378135510" expanded="false" signature="2809:2820" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2856:2862" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="2909:2920" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="2956:2962" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="3015:3026" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3062:3068" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="3101:3112" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3148:3154" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="3201:3212" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3248:3254" ph=" }" />
-                <marker date="1529378135510" expanded="true" signature="3330:3382" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="3457:3509" ph="{...}" />
-                <marker date="1529378135510" expanded="false" signature="3570:3581" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3617:3623" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="3672:3683" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3719:3725" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="3758:3769" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3805:3811" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="3852:3863" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3899:3905" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="3934:3945" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="3981:3987" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="4048:4059" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="4095:4101" ph=" }" />
-                <marker date="1529378135510" expanded="false" signature="4158:4169" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="4205:4211" ph=" }" />
-                <marker date="1529378135510" expanded="true" signature="4291:4343" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="4415:4467" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="4570:4622" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="4703:4755" ph="{...}" />
-                <marker date="1529378135510" expanded="false" signature="4808:4819" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="4855:4861" ph=" }" />
-                <marker date="1529378135510" expanded="true" signature="4927:7088" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="4937:5748" ph="@{...}" />
-                <marker date="1529378135510" expanded="true" signature="5785:5845" ph="@{...}" />
-                <marker date="1529378135510" expanded="true" signature="5935:6057" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="6110:6232" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="6299:6421" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="6490:6612" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="6669:6791" ph="{...}" />
-                <marker date="1529378135510" expanded="true" signature="6855:6977" ph="{...}" />
-                <marker date="1529378135510" expanded="false" signature="7021:7036" ph=" { " />
-                <marker date="1529378135510" expanded="false" signature="7072:7082" ph=" }" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="layoutResourceFile" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cacheDir</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2348,19 +2251,29 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main_table_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main_table_cell_view.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/GlideImageLoader.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/OnGlideImageViewListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/OnProgressListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/ProgressManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/ProgressResponseBody.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StoreUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StorageUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/hbaoxian/androidaccumulation/BuildConfig.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2070" />
-    <option name="y" value="-209" />
-    <option name="width" value="1594" />
-    <option name="height" value="1042" />
+    <option name="x" value="28" />
+    <option name="y" value="26" />
+    <option name="width" value="1813" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -2409,6 +2322,11 @@
             <path>
               <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
               <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -2423,23 +2341,6 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
               <item name="generated" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="shaders" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
@@ -2448,15 +2349,6 @@
               <item name="build" type="462c0819:PsiDirectoryNode" />
               <item name="generated" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="rs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
@@ -2465,6 +2357,36 @@
               <item name="build" type="462c0819:PsiDirectoryNode" />
               <item name="generated" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="buildConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="buildConfig" type="462c0819:PsiDirectoryNode" />
+              <item name="debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="buildConfig" type="462c0819:PsiDirectoryNode" />
+              <item name="debug" type="462c0819:PsiDirectoryNode" />
+              <item name="androidaccumulation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
@@ -2495,6 +2417,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="androidaccumulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="androidaccumulation" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="androidaccumulation" type="462c0819:PsiDirectoryNode" />
+              <item name="Tool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
@@ -2547,14 +2489,7 @@
             </path>
             <path>
               <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidLearningAccumulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidLearningAccumulation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -2568,8 +2503,10 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="62ACACQQ443G2" />
+    <property name="device.picker.selection" value="Nexus_5X_API_27" />
     <property name="android.profiler.active" value="true" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2666,6 +2603,18 @@
       <module name="" />
       <envs />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="AndroidLearningAccumulation" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -2751,7 +2700,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2070" y="-209" width="1594" height="1042" extended-state="0" />
+    <frame x="28" y="26" width="1813" height="1008" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2764,13 +2714,13 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40800866" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5797753" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48376623" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2343309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.097402595" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18125352" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2820,20 +2770,6 @@
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/com/hbaoxian/androidaccumulation/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="4970" column="28" lean-forward="false" selection-start-line="4970" selection-start-column="28" selection-end-line="4970" selection-end-column="28" />
-          <folding>
-            <marker date="1530107681565" expanded="true" signature="232119:232174" ph="{...}" />
-            <marker date="1530107681565" expanded="true" signature="232210:232325" ph="{...}" />
-            <marker date="1530107681565" expanded="true" signature="232361:236319" ph="{...}" />
-            <marker date="1530107681565" expanded="true" signature="236354:274652" ph="{...}" />
-            <marker date="1530107681565" expanded="true" signature="274691:948672" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4093,71 +4029,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/os/Build.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="75" column="32" lean-forward="false" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-          <folding>
-            <marker date="1529378135510" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1529378135510" expanded="true" signature="292:310" ph="/**...*/" />
-            <marker date="1529378135510" expanded="true" signature="378:396" ph="/**...*/" />
-            <marker date="1529378135510" expanded="true" signature="887:905" ph="/**...*/" />
-            <marker date="1529378135510" expanded="true" signature="971:989" ph="/**...*/" />
-            <marker date="1529378135510" expanded="false" signature="1477:1488" ph=" { " />
-            <marker date="1529378135510" expanded="false" signature="1524:1530" ph=" }" />
-            <marker date="1529378135510" expanded="false" signature="1568:1579" ph=" { " />
-            <marker date="1529378135510" expanded="false" signature="1615:1621" ph=" }" />
-            <marker date="1529378135510" expanded="false" signature="1665:1676" ph=" { " />
-            <marker date="1529378135510" expanded="false" signature="1712:1718" ph=" }" />
-            <marker date="1529378135510" expanded="true" signature="1758:3244" ph="{...}" />
-            <marker date="1529378135510" expanded="false" signature="3177:3192" ph=" { " />
-            <marker date="1529378135510" expanded="false" signature="3228:3238" ph=" }" />
-            <marker date="1529378135510" expanded="true" signature="3278:3831" ph="{...}" />
-            <marker date="1529378135510" expanded="true" signature="3550:3568" ph="/**...*/" />
-            <marker date="1529378135510" expanded="false" signature="3764:3779" ph=" { " />
-            <marker date="1529378135510" expanded="false" signature="3815:3825" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/adapter/MainAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding>
-            <element signature="e#1535#1838#0" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4265,6 +4142,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/os/Build.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="75" column="32" lean-forward="false" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <marker date="1529378135510" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1529378135510" expanded="true" signature="292:310" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="378:396" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="887:905" ph="/**...*/" />
+            <marker date="1529378135510" expanded="true" signature="971:989" ph="/**...*/" />
+            <marker date="1529378135510" expanded="false" signature="1477:1488" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="1524:1530" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="1568:1579" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="1615:1621" ph=" }" />
+            <marker date="1529378135510" expanded="false" signature="1665:1676" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="1712:1718" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="1758:3244" ph="{...}" />
+            <marker date="1529378135510" expanded="false" signature="3177:3192" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="3228:3238" ph=" }" />
+            <marker date="1529378135510" expanded="true" signature="3278:3831" ph="{...}" />
+            <marker date="1529378135510" expanded="true" signature="3550:3568" ph="/**...*/" />
+            <marker date="1529378135510" expanded="false" signature="3764:3779" ph=" { " />
+            <marker date="1529378135510" expanded="false" signature="3815:3825" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/GlideImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/OnGlideImageViewListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/OnProgressListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/ProgressManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/imageload/ProgressResponseBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Gradle__com_nostra13_universalimageloader_universal_image_loader_1_9_5_jar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar!/com/nostra13/universalimageloader/BuildConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <marker date="1530155263535" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1530155263535" expanded="true" signature="542:549" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/befa9412ecbd18331c5e066e46ca4005077382bc/universal-image-loader-1.9.5-sources.jar!/com/nostra13/universalimageloader/core/ProcessAndDisplayImageTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/befa9412ecbd18331c5e066e46ca4005077382bc/universal-image-loader-1.9.5-sources.jar!/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="50" column="12" lean-forward="false" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/show_image_acvity.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -4273,6 +4252,89 @@
         <state relative-caret-position="375">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StoreUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/hbaoxian/androidaccumulation/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/ui/activity/ShowImageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/com/hbaoxian/androidaccumulation/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="4970" column="28" lean-forward="false" selection-start-line="4970" selection-start-column="28" selection-end-line="4970" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/Tool/StorageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hbaoxian/androidaccumulation/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
