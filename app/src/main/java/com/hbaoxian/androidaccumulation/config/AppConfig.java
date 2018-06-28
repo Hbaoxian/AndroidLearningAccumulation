@@ -34,7 +34,14 @@ public class AppConfig {
     }
 
 
-
+    /***
+     *
+     * imageLoader的初始配置
+     *
+     * 集成需要添加 image-loader:1.9.5 依赖
+     *
+     *
+     */
     public static void configImageLoader(Context context) {
         File cacheDir = StorageUtils.getCacheDirectory(context);
         ImageLoaderConfiguration config = new ImageLoaderConfiguration.Builder(context)

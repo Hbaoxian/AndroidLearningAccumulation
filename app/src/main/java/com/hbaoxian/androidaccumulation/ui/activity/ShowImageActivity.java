@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.widget.ImageView;
 
+import com.bumptech.glide.Glide;
 import com.hbaoxian.androidaccumulation.R;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
@@ -24,6 +25,11 @@ public class ShowImageActivity extends AppCompatActivity {
         ImageView imageView = (ImageView)findViewById(R.id.show_image);
         setSupportActionBar(toolbar);
         ImageLoader.getInstance().displayImage("http://img02.tooopen.com/images/20150507/tooopen_sy_122395947985.jpg", imageView);
+
+        ImageView glideView = (ImageView)findViewById(R.id.show_image_glide);
+        Glide.with(glideView).load("http://img02.tooopen.com/images/20150507/tooopen_sy_122395947985.jpg").into(glideView);
+
+
 
     }
 
