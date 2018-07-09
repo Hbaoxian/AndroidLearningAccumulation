@@ -47,6 +47,14 @@ public class AppConfig {
         map.put("target", "com.hbaoxian.androidaccumulation.ui.activity.ShowImageActivity");
         list.add(map);
 
+
+        map = new HashMap<>();
+        map.put("name", "di电话");
+        map.put("target", "com.hbaoxian.androidaccumulation.ui.activity.PhoneActivity");
+        list.add(map);
+
+
+
         return list;
     }
 
